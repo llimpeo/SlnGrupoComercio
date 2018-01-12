@@ -1,9 +1,0 @@
-E:\Demos NET\SlnGrupoComercio\Parte01\bin\Debug\netstandard2.0\Parte01.deps.json
-E:\Demos NET\SlnGrupoComercio\Parte01\bin\Debug\netstandard2.0\Parte01.dll
-E:\Demos NET\SlnGrupoComercio\Parte01\bin\Debug\netstandard2.0\Parte01.pdb
-E:\Demos NET\SlnGrupoComercio\Parte01\obj\Debug\netstandard2.0\Parte01.csprojResolveAssemblyReference.cache
-E:\Demos NET\SlnGrupoComercio\Parte01\obj\Debug\netstandard2.0\Parte01.csproj.CoreCompileInputs.cache
-E:\Demos NET\SlnGrupoComercio\Parte01\obj\Debug\netstandard2.0\Parte01.AssemblyInfoInputs.cache
-E:\Demos NET\SlnGrupoComercio\Parte01\obj\Debug\netstandard2.0\Parte01.AssemblyInfo.cs
-E:\Demos NET\SlnGrupoComercio\Parte01\obj\Debug\netstandard2.0\Parte01.dll
-E:\Demos NET\SlnGrupoComercio\Parte01\obj\Debug\netstandard2.0\Parte01.pdb
